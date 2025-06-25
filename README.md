@@ -15,7 +15,7 @@
 - Автоматическое воспроизведение следующего трека в плейлисте
 
 ### 🎛 Интерфейс
-- Чистый и понятный дизайн
+- Чистый и понятный дизайн на основе Material UI
 - Адаптация под разные устройства
 - Быстрый доступ к библиотеке треков
 
@@ -24,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ## 🎧 Как использовать
 
