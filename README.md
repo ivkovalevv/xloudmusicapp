@@ -1,7 +1,7 @@
 # 🔊 Xloud Music App
 
-[![Live Demo](https://img.shields.io/badge/-ДЕМО-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://ivkovalevv.github.io/xloudmusicapp) 
-[![Source Code](https://img.shields.io/badge/-КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivkovalevv/xloudmusicapp)
+[![Live Demo](https://img.shields.io/badge/-ДЕМО-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://ivkovalevv.github.io/xloud-music-app) 
+[![Source Code](https://img.shields.io/badge/-КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivkovalevv/xloud-music-app)
 
 Минималистичный музыкальный плеер с удобным поиском и базовыми функциями | **Все треки, кроме "Custody - No Way Back", написаны мной в FL Studio**
 
